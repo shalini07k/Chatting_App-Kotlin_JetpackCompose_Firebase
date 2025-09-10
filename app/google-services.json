@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "720321457516",
+    "project_id": "let-s-talk-d18e4",
+    "storage_bucket": "let-s-talk-d18e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720321457516:android:17ac06a42c296d53349749",
+        "android_client_info": {
+          "package_name": "com.example.chatting_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU6Kstcn2JYUBLn3dqIzNClN52dzLHmuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
