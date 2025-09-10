@@ -3,13 +3,13 @@ A modern Android Chat Application built with Kotlin and Jetpack Compose, featuri
 
 ## 🚀 **Features**
 
-1) Jetpack Compose UI – Modern, responsive, and declarative Android UI
-2) Firebase Authentication – Secure user sign-in and sign-up
-3) Realtime Database – Instant message synchronization across devices
-4) Cloud Firestore – Scalable storage for chat and user data
-5) Navigation Compose – Smooth and type-safe navigation between screens
-6) Kotlinx Serialization – JSON parsing and object mapping
-7) Hilt Dependency Injection – Clean, testable, and maintainable architecture
+1) **Jetpack Compose UI** – Modern, responsive, and declarative Android UI
+2) **Firebase Authentication** – Secure user sign-in and sign-up
+3) **Realtime Database** – Instant message synchronization across devices
+4) **Cloud Firestore** – Scalable storage for chat and user data
+5) **Navigation Compose** – Smooth and type-safe navigation between screens
+6) **Kotlinx Serialization** – JSON parsing and object mapping
+7) **Hilt Dependency Injection** – Clean, testable, and maintainable architecture
 
 ## 🛠️ **Tech Stack**
 
