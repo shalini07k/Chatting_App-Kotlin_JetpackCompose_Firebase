@@ -1,7 +1,7 @@
 # **Chatting_App-Kotlin_JetpackCompose_Firebase**
 A modern Android Chat Application built with Kotlin and Jetpack Compose, featuring real-time messaging powered by Firebase. The app is designed with clean architecture, dependency injection, and scalable Firebase services.
 
-## 🚀 ** Features**
+## 🚀 **Features**
 
 1) Jetpack Compose UI – Modern, responsive, and declarative Android UI
 2) Firebase Authentication – Secure user sign-in and sign-up
