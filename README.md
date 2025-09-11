@@ -23,22 +23,22 @@ A modern Android Chat Application built with Kotlin and Jetpack Compose, featuri
 
 ## 📦 **Dependencies**
 #### 1.) For Navigation- 
-```kotlin
+```**build.gradle**
 implementation("androidx.navigation:navigation-compose:2.9.3")
 ```
 #### 2.) For Serialization- 
-```kotlin
+```**build.gradle**
 implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.3")
 ```
 
 #### 3.) For Hilt-
-```kotlin
+```**build.gradle**
 implementation("com.google.dagger:hilt-android:2.56.2")
 kapt("com.google.dagger:hilt-android-compiler:2.56.2")
 implementation("androidx.hilt:hilt-navigation-compose:1.2.0")
 ```
 #### 4.) For FireBase- 
-```kotlin
+```**build.gradle**
 implementation(platform("com.google.firebase:firebase-bom:34.1.0"))
 implementation("com.google.firebase:firebase-auth")
 implementation("com.google.firebase:firebase-database")
