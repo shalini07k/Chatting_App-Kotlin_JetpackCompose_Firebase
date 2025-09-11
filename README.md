@@ -23,7 +23,8 @@ A modern Android Chat Application built with Kotlin and Jetpack Compose, featuri
 
 ## 📦 **Dependencies**
 #### 1.) For Navigation- 
-```**build.gradle**
+```
+**build.gradle**
 implementation("androidx.navigation:navigation-compose:2.9.3")
 ```
 #### 2.) For Serialization- 
