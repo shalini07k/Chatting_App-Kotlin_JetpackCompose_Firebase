@@ -13,7 +13,7 @@ A modern Android Chat Application built with Kotlin and Jetpack Compose, featuri
 
 ![WhatsApp Image 2025-09-15 at 01 33 32_fb1f9981](https://github.com/user-attachments/assets/48533987-7d46-4265-b657-c1dea258cea4)
 ![WhatsApp Image 2025-09-15 at 01 33 31_f9c11e16](https://github.com/user-attachments/assets/3736069d-ca4a-4718-b9a3-166c61b6d742)
-
+<img src=![WhatsApp Image 2025-09-15 at 01 33 31_f9c11e16](https://github.com/user-attachments/assets/3736069d-ca4a-4718-b9a3-166c61b6d742) width="180" height="300">
 
 ## 🚀 **Features**
 
