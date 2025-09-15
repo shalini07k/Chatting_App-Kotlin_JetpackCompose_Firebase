@@ -1,6 +1,14 @@
 # **Chatting_App-Kotlin_JetpackCompose_Firebase**
 A modern Android Chat Application built with Kotlin and Jetpack Compose, featuring real-time messaging powered by Firebase. The app is designed with clean architecture, dependency injection, and scalable Firebase services.
-
+<img width="911" height="911" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/33b7ad1a-3ee8-4566-8ba3-d30f331ba0c1" />
+<img width="766" height="840" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/2d511a32-fa5d-48a5-9463-aaa5772159f4" />
+<img width="1920" height="1080" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/7044e635-d8c8-487d-909f-b6d58e13ceae" />
+<img width="742" height="796" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/0626b245-6b6a-4ffb-be88-a85683a969f0" />
+<img width="1920" height="1080" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/3804f71f-388a-4336-823b-b69e323e1a8c" />
+<img width="746" height="818" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/34f0629d-0d74-4547-8630-134e47f70223" />
+<img width="1920" height="1080" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/18c39222-dd65-4523-9e36-47b59fe77f92" />
+<img width="766" height="834" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/0ae62e70-6ba6-4839-aca7-a1af639d942c" />
+<img width="758" height="831" alt="Screenshot (143)" src="https://github.com/user-attachments/assets/5a20f6f2-3ba2-4a2c-9bb4-f9926eec64cc" />
 
 ## 🚀 **Features**
 
